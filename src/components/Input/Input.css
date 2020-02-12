@@ -1,0 +1,14 @@
+.ListInput{
+    margin:0 auto;
+    width:50%;
+}
+
+.Inputs{
+    margin:0 auto;
+    width:80%;
+}
+
+.Inputs input{
+    width: 100%;
+    padding: 5px;
+}

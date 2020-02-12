@@ -1,0 +1,12 @@
+.Layout{
+    background-color: whitesmoke;
+    width: 500px;
+    margin:50px auto;
+    /* border : 1px solid black; */
+    /* border-radius: 10px; */
+    box-shadow: 5px 5px 5px black 1;
+    padding:10px;
+}
+.Layout h1{
+    text-align: center;
+}

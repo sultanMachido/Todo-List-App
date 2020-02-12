@@ -1,0 +1,14 @@
+.Button{
+    width:50%;
+    margin: 0 auto;
+}
+
+.Button button{
+    width:100%;
+    padding:4px;
+    background-color: rgb(83, 236, 83);
+    border-radius: 5px;
+    border:1px solid rgb(83, 236, 83);
+    margin-top:5px; 
+    color:white;
+}

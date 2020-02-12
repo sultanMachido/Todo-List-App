@@ -1,0 +1,13 @@
+.Alert{
+    background-color: rgba(238, 34, 34, 0.979);
+    width:200px;
+    border-radius: 1px;
+    margin: 0 auto;
+    
+}
+
+.Alert p{
+    padding: 5px;
+    text-align: center;
+    color: white
+}

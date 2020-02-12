@@ -1,0 +1,33 @@
+.Item{
+    width:80%;
+    border: 1px solid aquamarine;
+    background-color: aquamarine;
+    padding: 5px;
+    list-style-type: none;
+    margin-top: 2px;
+    display:flex;
+    justify-content: space-between;
+}
+.Check{
+    display:flex;
+}
+.Check h5{
+    margin: 0 0 0 3px;
+    padding:0;
+    color: red;
+    cursor: pointer;
+}
+.Check input{
+    margin: 5px 0 0 0;
+    /* padding:0; */
+}
+.Ticked{
+    text-decoration:line-through;
+    color:grey;
+}
+.UnTicked{
+    text-decoration:none
+}
+.TargetChild{
+    display:none
+}
