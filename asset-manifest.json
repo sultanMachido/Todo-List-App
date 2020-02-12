@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Todo-List-App/static/css/main.17f52fd0.chunk.css",
+    "main.js": "/Todo-List-App/static/js/main.61bf24d4.chunk.js",
+    "main.js.map": "/Todo-List-App/static/js/main.61bf24d4.chunk.js.map",
+    "runtime-main.js": "/Todo-List-App/static/js/runtime-main.43795c5e.js",
+    "runtime-main.js.map": "/Todo-List-App/static/js/runtime-main.43795c5e.js.map",
+    "static/js/2.23919358.chunk.js": "/Todo-List-App/static/js/2.23919358.chunk.js",
+    "static/js/2.23919358.chunk.js.map": "/Todo-List-App/static/js/2.23919358.chunk.js.map",
+    "index.html": "/Todo-List-App/index.html",
+    "precache-manifest.1454144dfd5965f601a3d2bf3d403020.js": "/Todo-List-App/precache-manifest.1454144dfd5965f601a3d2bf3d403020.js",
+    "service-worker.js": "/Todo-List-App/service-worker.js",
+    "static/css/main.17f52fd0.chunk.css.map": "/Todo-List-App/static/css/main.17f52fd0.chunk.css.map",
+    "static/js/2.23919358.chunk.js.LICENSE": "/Todo-List-App/static/js/2.23919358.chunk.js.LICENSE",
+    "static/media/logo.svg": "/Todo-List-App/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43795c5e.js",
+    "static/js/2.23919358.chunk.js",
+    "static/css/main.17f52fd0.chunk.css",
+    "static/js/main.61bf24d4.chunk.js"
+  ]
+}
